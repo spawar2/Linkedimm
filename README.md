@@ -4,3 +4,5 @@ BioMed Central BMC Bioinformatics, [Paper Link.](https://link.springer.com/epdf/
 <img width="284" alt="Bioinformatics" src="https://github.com/spawar2/Linkedimm/assets/25118302/4f6a0655-e63e-49bb-ae17-c8e85a4f1cd6">
 
 <img width="1430" alt="Linkedimm" src="https://github.com/spawar2/Linkedimm/assets/25118302/963de5e9-d10b-4df8-ad3a-7fc137ffdf84">
+
+Linkedimm_Plot.R: Immunne B cells scatterPlot.
